@@ -1,4 +1,4 @@
-package xadrez;
+package Ex01_xadrez;
 
 abstract class Peca {
     String cor;

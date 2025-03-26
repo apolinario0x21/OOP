@@ -1,4 +1,4 @@
-package xadrez;
+package Ex01_xadrez;
 
 public class Tabuleiro {
     Peca[][] tabuleiro;

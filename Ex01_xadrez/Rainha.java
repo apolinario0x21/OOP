@@ -1,4 +1,4 @@
-package xadrez;
+package Ex01_xadrez;
 
 public class Rainha extends Peca {
     public Rainha(String cor, int linha, int coluna) {

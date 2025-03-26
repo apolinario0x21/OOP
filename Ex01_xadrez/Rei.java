@@ -1,4 +1,4 @@
-package xadrez;
+package Ex01_xadrez;
 
 public class Rei extends Peca {
     public Rei(String cor, int linha, int coluna) {

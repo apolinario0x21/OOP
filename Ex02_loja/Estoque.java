@@ -1,4 +1,4 @@
-package loja;
+package Ex02loja;
 
 import java.util.ArrayList;
 
