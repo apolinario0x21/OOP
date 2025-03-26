@@ -1,4 +1,4 @@
-package Ex03banco;
+package Ex03_banco;
 
 public class Usuario {
     private String nome;
